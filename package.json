@@ -1,0 +1,22 @@
+{
+  "name": "web-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cmd-transport": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-livereload": "*",
+    "grunt-contrib-clean":"*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-open": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-jade":"*",
+    "grunt-regarde":"*"
+  }
+}
